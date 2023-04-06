@@ -1,0 +1,131 @@
+@charset "UTF-8";
+
+body{
+  max-width: 600px;
+  text-align: center;
+  margin:0 auto;
+}
+#home-top{
+  margin-top:50px;
+  margin-bottom:40px;
+}
+#main-top>h1{
+  margin-top:40px;
+
+}
+.message{
+  margin-bottom:20px;
+}
+#registaration{
+  display:inline-block;
+  width: 120px;
+  letter-spacing: 0.3em;
+  font-size:large;
+  font-weight: bold;
+  margin-bottom:20px;
+  text-decoration: none;
+}
+label{
+  margin-left:10px;
+}
+.id,.password{
+  font-size: larger;
+  margin-left:10px;
+  width:220px;
+}
+.loginbtn{
+  width:100px;
+  margin-top:10px;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size: large;
+  text-decoration: none;
+  text-align: center;
+}
+#forget{
+  margin-top:10px;
+  margin-bottom:30px;
+}
+#forget>a{
+  display: inline-block;
+  padding-bottom:10px;
+}
+.textbox{
+  font-size: large;
+  margin-bottom:15px;
+  width:300px;
+}
+#red{
+  color: red;
+}
+.newform{
+  margin-top:20px;
+}
+.newlabel{
+  display:block;
+  text-align: left;
+  margin-left:50px;
+}
+.birth{
+  font-size: large;
+  margin-left: 20px;
+  margin-bottom:20px;
+}
+.noticemail{
+  display:flex;
+  justify-content: center;
+}
+.checknotice{
+  margin-right:80px;
+}
+.backtologin{
+  margin-top:-5px;
+  margin-bottom:20px;
+}
+.table{
+  margin-left:auto;
+  margin-right:auto;
+}
+.copyright{
+  margin-top:20px;
+}
+.confirmation{
+  width:150px;
+  margin-top:10px;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size: large;
+  text-decoration: none;
+  text-align: center;
+} 
+/* .letterspace{
+  letter-spacing: 0.28em;
+} */
+.doublecheck{
+  margin-top:-20px;
+  margin-bottom:20px;
+}
+.cmainmenu{
+  color: white;
+  display: inline-block;
+  width:250px;
+  height:1.7em;
+  margin-bottom:20px;
+  font-weight:bold;
+  text-decoration: none;
+  text-align: center;
+  border: 2px solid rgb(202, 21, 21);
+  border-radius: 5%;
+  background-color: rgb(47, 0, 255);
+}
+.fontxl{
+  font-size: x-large;
+  padding:10px;
+  letter-spacing: 0.28em;
+}
+.fontl{
+  font-size:x-large;
+  padding:15px 10px;
+  letter-spacing: 0.28em;
+}
+

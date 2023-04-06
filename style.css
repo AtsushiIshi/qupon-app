@@ -1,0 +1,103 @@
+@charset "UTF-8";
+html{
+  font-size: 100%;
+}
+
+/* Login page */
+/* body */
+#page-layout{
+  max-width: 600px;
+  margin:0 auto;
+  text-align: center;
+}
+/* Title */
+.main-title{
+  margin-top:50px;
+  margin-bottom:20px;
+}
+/* registration button */
+.registaration{
+  display:inline-block;
+  font-size:1.25rem;
+  font-weight: bold;
+  margin-bottom:25px;
+  text-decoration: none;
+  height:35px;
+}
+.jpletter-space{
+  letter-spacing: 0.2rem;
+}
+.enletter-space{
+  letter-spacing:0.02rem;
+}
+.table-font{
+  font-size:1.5rem;
+  margin:0 auto;
+  margin-bottom: 15px;
+}
+.text-right{
+  text-align: right;
+}
+.margin-right{
+  margin-right:5px;
+}
+.box{
+  height: 1.3rem;
+  width:230px;
+}
+.login{
+  width: 110px;
+}
+.large-text{
+  font-size:large;
+}
+.large-text>p{
+  margin-bottom:-10px;
+}
+/* footer */
+#footer{
+  margin-top:60px;
+}
+
+/* registration */
+.newform{
+  margin-top:20px;
+}
+.newlabel{
+  display:block;
+  text-align: left;
+  margin-left:50px;
+}
+.textbox{
+  font-size: large;
+  margin-bottom:15px;
+}
+.wd300{
+  width:300px;
+}
+.year{
+  width:15%;
+}
+.date{
+  width:10%;
+  margin-left:5px;
+}
+.noticemail{
+  display:flex;
+  justify-content: center;
+}
+.checknotice{
+  margin-right:5rem;
+}
+.text-red{
+  color: red;
+}
+.back{
+  margin-top:5px;
+  font-size:1rem;
+}
+
+.test {
+  border-bottom: 1px solid #000000;
+  margin-bottom: 50px;
+}
